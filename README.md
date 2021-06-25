@@ -9,12 +9,6 @@ Distributed training and validation records:
 
 
 
-Training and testing process:
-
-![Training and testing process](https://user-images.githubusercontent.com/82304993/123393597-d184fe80-d5d0-11eb-8610-400550341f65.png)
-
-
-
 Status of GPUs:
 
 ![nvidia-smi](https://user-images.githubusercontent.com/82304993/123392094-40f9ee80-d5cf-11eb-9b34-87d40f4e30b8.png)
