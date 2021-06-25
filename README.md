@@ -3,7 +3,7 @@ This work is to create a runnable distributed training basline across multi-gpus
 A Grab-and-Go demo has been provided, please check script files and experimental snapshots (as below) for more details. 
 
 
-Distributed traing and validation records:
+Distributed training and validation records:
 
 ![Screenshot from 2021-06-10 15-06-23](https://user-images.githubusercontent.com/82304993/123392074-3d666780-d5cf-11eb-8b13-5768f8eb3105.png)
 
